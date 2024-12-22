@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+header{
+   background-color: rgba(43, 43, 43, 0.877);
+  color: white;
+  padding: 1em;
+}
+nav{
+    background-color:  rgba(97, 97, 97, 0.877);
+    overflow: hidden;
+}
+nav a {
+    color: white;
+    padding: 3px;
+    text-decoration: none;
+    display: inline-block;
+}
+nav a:hover{
+    background-color: rgba(27, 25, 25, 0.877);
+}
+button{
+    background-color: black;
+    color: aquamarine;
+}
+footer{
+    background-color:  rgba(43, 43, 43, 0.877);
+    padding-bottom: 1em;
+}
