@@ -42,7 +42,7 @@ footer{
 }
 .navbar ul{
     list-style-type: none;
-    background-color: gray;
+    background-color: skyblue;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
@@ -50,12 +50,12 @@ footer{
 .navbar a{
     color: white;
     text-decoration: none;
-    padding: 15px;
+    padding: 10px;
     display: block;
     text-align: center;
 }
 .navbar a:hover{
-    background-color: rgb(17, 15, 15);
+    background-color: blue;
 }
 .navbar li{
     float: left;
